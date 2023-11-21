@@ -1,0 +1,8 @@
+/*
+padding style
+*/
+h1 {
+    border: 10px solid red;
+    padding-left: 40px;
+    padding-top: 20px;
+}

@@ -1,0 +1,11 @@
+/*
+applying margin
+*/
+h1 {
+    border: 5px solid green;
+    padding-left: 40px;
+    padding-top: 40px;
+    margin: auto;
+    height: 200px;
+    width: 300px;
+}
